@@ -6,3 +6,5 @@
 This circuit is a buck converter that powers motors from a solar panel. There is a feedback loop that adjusts the converter duty cycle to ensure the solar panel is always operating at the maximum power point.
 
 Currently on stripboard, a PCB is in progress.
+
+The design is not public currently as it is a course assignment.
