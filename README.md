@@ -1,4 +1,4 @@
-# solar_car
+# Solar car power electronics
 ![20241006_190208 (1)](https://github.com/user-attachments/assets/8429375f-b38d-4101-b26a-fb593ffa0a16)
 ![Image](https://github.com/user-attachments/assets/69b67532-8be0-4f2a-a504-522f4f5f946e)
 ![Image](https://github.com/user-attachments/assets/62ba5613-8f0d-467a-b030-b451a482d1b3)
