@@ -6,7 +6,7 @@
 *The PCB files are not public currently as this is a course assignment.*
 
 This project is an efficient power electronics system designed to run a small solar-powered car. The main circuit elements are as follows:
-- A buck converter designed to transfer power from the solar panels to the motors.
+- A buck converter designed to transfer power from the solar panels to the motors. The inductor `L1` is not shown in the 3d model, but it was an inductor that we designed and constructed using winding machines.
 - PWM control IC to produce the signal that switches the buck converter.
 - Push-pull system to drive the mosfet gate and reduce switching losses.
 - Capacitor-based PI feedback loop to ensure the system was always operating at the solar panel's maxmimum power point. This ensures the highest amount of energy transferred to the motors, allowing the car to go further and faster.
